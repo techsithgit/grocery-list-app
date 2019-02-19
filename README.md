@@ -9,4 +9,4 @@ from the command prompt clone the project
 * $npm install
 * $node app add --item=tomato --price=20
 
-[https://youtu.be/QPlwWuM3UIs]().
+[watch video](https://youtu.be/QPlwWuM3UIs).
